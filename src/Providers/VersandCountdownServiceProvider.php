@@ -1,11 +1,11 @@
 <?php
 
-namespace Placeholder\Providers;
+namespace VersandCountdown\Providers;
 
 
 use Plenty\Plugin\ServiceProvider;
 
-class PlaceholderServiceProvider extends ServiceProvider
+class VersandCountdownServiceProvider extends ServiceProvider
 {
 
 	/**
