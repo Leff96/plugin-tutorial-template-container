@@ -1,8 +1,8 @@
 [
   {
-    "tab"                         : "Placeholder settings",
-    "key"                         : "placeholder.text",
-    "label"                       : "Placeholder text",
+    "tab"                         : "VersandCountdown Einstellungen",
+    "key"                         : "VersandCountdown.text",
+    "label"                       : "VersandCountdown text",
     "type"                        : "text",
     "default"                     : "This is a placeholder"
   }
