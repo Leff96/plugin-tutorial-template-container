@@ -1,18 +1,18 @@
 {
-  "name"              :"Placeholder",
-  "description"       :"Plentymarkets placeholder plugin",
-  "namespace"         :"Placeholder",
-  "author"            :"plentymarkets GmbH",
+  "name"              :"VersandCountdown",
+  "description"       :"VersandCountdown plugin",
+  "namespace"         :"VersandCountdown",
+  "author"            :"TWP GmbH",
   "keywords"          : ["plentymarkets", "plugins", "container", "placeholder", "template"],
   "type"              :"template",
   "require"           : [],
-  "serviceProvider"   :"Placeholder\\Providers\\PlaceholderServiceProvider",
+  "serviceProvider"   :"VersandCountdown\\Providers\\PlaceholderServiceProvider",
   "dataProviders"     :
   [
     {
-      "key":"Placeholder\\Containers\\PlaceholderContainer",
-      "name":"Placeholder",
-      "description":"Display a placeholder image and text"
+      "key":"VersandCountdown\\Containers\\VersandCountdownContainer",
+      "name":"VersandCountdown",
+      "description":"Display a VersandCountdown image and text"
     }
   ]
 }
